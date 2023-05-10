@@ -1,1 +1,1 @@
-# Analysis-of-sales-data
+# Diwali-sales-analysis
